@@ -24,8 +24,8 @@ This project focuses on analyzing retail sales data to gain insights into custom
 - **Time-Series Analysis:** Explore sales trends over time to identify seasonal patterns.
 
 ## Usage
-1. Clone the repository.
-2.Run the analysis notebooks or scripts to generate insights.
+- Clone the repository.
+- Run the analysis notebooks or scripts to generate insights.
 
 ## Project Structure
 -The raw input data.
