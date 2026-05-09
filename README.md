@@ -29,3 +29,14 @@ This project focuses on analyzing retail sales data to gain insights into custom
 
 ## Project Structure
 -The raw input data.
+
+## Technologies Used
+
+The project can be analyzed using:
+
+- DataBricks
+- Power BI
+- Excel
+- Canva
+- Miro Planning
+- PowerPoint
